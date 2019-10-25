@@ -1,0 +1,38 @@
+<annotation>
+	<folder>stop</folder>
+	<filename>stop_64.jpg</filename>
+	<path>H:\fotos treino\stop\stop_64.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>535</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pare</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>150</ymin>
+			<xmax>134</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pare</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>669</xmin>
+			<ymin>142</ymin>
+			<xmax>733</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+</annotation>
