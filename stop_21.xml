@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stop</folder>
+	<filename>stop_21.JPG</filename>
+	<path>H:\fotos treino\stop\stop_21.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2984</width>
+		<height>1989</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pare</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>69</ymin>
+			<xmax>359</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>

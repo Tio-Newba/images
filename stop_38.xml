@@ -1,0 +1,38 @@
+<annotation>
+	<folder>stop</folder>
+	<filename>stop_38.jpg</filename>
+	<path>H:\fotos treino\stop\stop_38.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pare</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>511</xmin>
+			<ymin>67</ymin>
+			<xmax>568</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pare</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>863</xmin>
+			<ymin>212</ymin>
+			<xmax>987</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>
